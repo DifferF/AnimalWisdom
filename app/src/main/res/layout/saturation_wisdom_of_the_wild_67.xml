@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/radiance_wisdom_of_the_wild_77_alpha"
+android:padding="6dp">
+<ImageView
+android:id="@+id/background_image" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:scaleType="fitEnd" 
+android:src="@drawable/tint_lessons_from_animals_73" /> 
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="349dp"
+android:layout_centerVertical="true"
+android:layout_margin="14dp"
+android:background="@color/radiance_wisdom_of_the_wild_77_alpha"
+android:orientation="vertical"
+android:padding="16dp">
+<TextView
+android:id="@+id/wisdomOfTheWildChanceA"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/tint_lessons_from_animals_91"
+android:fontFamily="serif"
+android:textColor="@color/brilliance_animal_teachings_11"
+android:textAllCaps="true"
+android:letterSpacing="0.1"
+android:lineSpacingExtra="@dimen/iridescence_lessons_from_animals_10"
+android:gravity="center"
+android:padding="15dp"
+/>
+<Button
+android:id="@+id/wisdomOfTheWildBetaB"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/wisdomOfTheWildChanceA"
+android:layout_centerHorizontal="true"
+android:layout_marginTop="20dp"
+android:text="@string/saturation_wisdom_of_the_wild_31" />
+</LinearLayout>
+</RelativeLayout>

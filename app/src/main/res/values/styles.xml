@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="ThemeWisdomOfTheWild" parent="Widget.MaterialComponents.Button">
+<!-- All Button Background Color -->
+<item name="backgroundTint">@color/monochrome_animal_teachings_48</item>
+<!-- All Button Form-->
+<item name="android:background">@drawable/monochrome_lessons_from_animals_61</item>
+<!-- All Button Text Color -->
+<item name="android:textColor">@color/tint_wisdom_of_the_wild_31</item>
+<!-- All Button Text Font Family-->
+<item name="android:fontFamily">@font/chroma_wisdom_of_the_wild_39</item>
+<!-- All Button Text Size-->
+<item name="android:textSize">@dimen/dullness_lessons_from_animals_65</item>
+<!-- Подключить TemplateFontStyle-->
+<!-- <item name="android:textAppearance">@style/AccentAnimalTeachings</item>-->
+</style>
+<style name="AccentAnimalTeachings" parent="TextAppearance.AppCompat">
+<!-- android:fontFamily="@font/intensity_lessons_from_animals_99"-->
+<item name="android:fontFamily">@font/intensity_lessons_from_animals_99</item>
+<!-- android:textColor="@color/brilliance_animal_teachings_11"-->
+<item name="android:textColor">@color/brilliance_animal_teachings_11</item>
+<!-- android:shadowColor="#80000000"-->
+<item name="android:shadowColor">#80000000</item>
+<!-- android:shadowDx="20"-->
+<item name="android:shadowDx">20</item>
+<!-- android:shadowDy="4"-->
+<item name="android:shadowDy">4</item>
+<!-- android:shadowRadius="5"-->
+<item name="android:shadowRadius">5</item>
+<!-- bold-жирный italic-курсивный, normal-обычный стиль текста.-->
+<!-- android:textStyle="bold"-->
+<item name="android:textStyle">normal</item>
+<!-- android:textSize="18sp"-->
+<item name="android:textSize">@dimen/transparency_lessons_from_animals_88</item>
+<!-- android:textAllCaps="true" true false -->
+<item name="android:textAllCaps">true</item>
+<!-- android:lineSpacingExtra="8sp" Регулировка расстояния между строками текста-->
+<item name="android:lineSpacingExtra">2sp</item>
+<!-- android:letterSpacing="0.1" Регулировка расстояния между символами текста-->
+<item name="android:letterSpacing">0.1</item>
+</style>
+</resources>
