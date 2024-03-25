@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<dimen name="iridescence_animal_teachings_47">2</dimen>   <!--{1-2}-->
-<dimen name="iridescence_lessons_from_animals_10">3sp</dimen> <!--{1-5}sp-->
-<dimen name="dullness_lessons_from_animals_65">14sp</dimen> <!--{10-15}sp-->
-<dimen name="transparency_lessons_from_animals_88">18sp</dimen> <!--{15-20}sp-->
-<dimen name="bold_lessons_from_animals_12">20sp</dimen> <!--{16-20}sp-->
-<dimen name="shade_animal_teachings_68">18dp</dimen> <!--{15-20}dp-->
-</resources>
